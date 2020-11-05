@@ -1,0 +1,9 @@
+@import "../../scss/main.scss";
+
+.ProductsBySearch {
+  background-color: map-get($white-colors, normal);
+  margin-top: 16px;
+  margin-bottom: 16px;
+  border-radius: 5px;
+  padding: 0 16px;
+}
